@@ -6,7 +6,6 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'tobedecided@gmail.com'
-mailchimp-list: '???'
 
 include: ["_pages"]
 permalink: /:title/
