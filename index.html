@@ -39,7 +39,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ latest_post.date | date: "%-d" }} {% assign m1 = latest_post.date | date: "%-m"  | minus: 1 %}{{ site.months_short[m1] }} {{ latest_post.date | date: "%Y" }}
         </small>
     </div>
     </div>
@@ -70,7 +70,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                    	{{ second_post.date | date: "%-d" }} {% assign m1 = second_post.date | date: "%-m"  | minus: 1 %}{{ site.months_short[m1] }} {{ second_post.date | date: "%Y" }}
                     </small>
                 </div>
             </div>
@@ -97,7 +97,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
+                    	{{ third_post.date | date: "%-d" }} {% assign m1 = third_post.date | date: "%-m"  | minus: 1 %}{{ site.months_short[m1] }} {{ third_post.date | date: "%Y" }}
                     </small>
                 </div>
             </div>
@@ -124,7 +124,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                    	{{ fourth_post.date | date: "%-d" }} {% assign m1 = fourth_post.date | date: "%-m"  | minus: 1 %}{{ site.months_short[m1] }} {{ fourth_post.date | date: "%Y" }}
                     </small>
                 </div>
             </div>
@@ -168,7 +168,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Tutti gli articoli</span></h4>
         
 
         {% for post in paginator.posts %}

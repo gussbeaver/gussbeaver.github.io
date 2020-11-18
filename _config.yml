@@ -51,6 +51,20 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+# Date
+months_short: 
+  - Gen
+  - Feb
+  - Mar
+  - Apr
+  - Mag
+  - Giu
+  - Lug
+  - Ago
+  - Set
+  - Ott
+  - Nov
+  - Dic
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

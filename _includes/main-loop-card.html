@@ -14,7 +14,7 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+		{{ post.date | date: "%-d" }} {% assign m1 = post.date | date: "%-m"  | minus: 1 %}{{ site.months_short[m1] }} {{ post.date | date: "%Y" }}
 	</small>
 </div>
 {% if post.image %}

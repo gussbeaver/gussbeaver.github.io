@@ -23,8 +23,7 @@ layout: default
 						    <span class="text-muted d-block mt-1">
 								{{ page.date | date: "%-d" }}
 								{% assign m = page.date | date: "%-m"  | minus: 1 %}
-								{{ site.ita.months-short[m] }}
-								{{ site.ita.months-full[m] }}
+								{{ site.months_short[m] }}
 								{{ page.date | date: "%Y" }}
 						    </span>
 						</small>
