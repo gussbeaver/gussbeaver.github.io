@@ -20,25 +20,13 @@ layout: default
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
 						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-                            <span class="text-muted d-block mt-1">
-					{% assign m = page.date | date: "%-m" %}
-					{{ page.date | date: "%-d" }}
-					{% case m %}
-					  {% when '1' %}Gen
-					  {% when '2' %}Feb
-					  {% when '3' %}Mar
-					  {% when '4' %}Apr
-					  {% when '5' %}Mag
-					  {% when '6' %}Giu
-					  {% when '7' %}Lug
-					  {% when '8' %}Ago
-					  {% when '9' %}Set
-					  {% when '10' %}Ott
-					  {% when '11' %}Nov
-					  {% when '12' %}Dic
-					{% endcase %}
-					{{ page.date | date: "%Y" }}
-			    </span>
+						    <span class="text-muted d-block mt-1">
+								{{ page.date | date: "%-d" }}
+								{% assign m = page.date | date: "%-m"  | minus: 1 %}
+								{{ site.ita.months-short[m] }}
+								{{ site.ita.months-full[m] }}
+								{{ page.date | date: "%Y" }}
+						    </span>
 						</small>
 					</div>
 				</div>
