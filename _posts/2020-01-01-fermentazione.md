@@ -2,7 +2,7 @@
 layout: post
 title:  "Cos'è la fermentazione"
 categories: [ fermentazione ]
-image: assets/images/fermentazione.jpg
+image: assets/images/fermentazione-carote-05.jpg
 tags: [sticky]
 comments: false
 ---
@@ -25,6 +25,6 @@ I microrganismi _patogeni_ fanno marcire gli alimenti e li rendono nocivi per la
 
 Esistono diversi tipi di fermentazione, ma le principali sono quella **acido-lattica** e quella **alcoolica**.
 
-Una fermentazione [acido-lattica](../fermentazione-acido-lattica) produce principalmente acido lattico, mentre una fermentazione alcoolica produce principalmente alcool. In genere, inoltre, producono anche dell'anidride carbonica.
+Una [fermentazione acido-lattica](../fermentazione-acido-lattica) produce principalmente acido lattico, mentre una fermentazione alcoolica produce principalmente alcool. In genere, inoltre, producono anche dell'anidride carbonica.
 
 Inoltre si possono anche classificare in **indotti** o **spontanei**, a seconda che sia necessario o meno aggiungere agli alimenti i microrganismi che operano la fermentazione.
