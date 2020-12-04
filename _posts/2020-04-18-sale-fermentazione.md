@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "La quantità di sale per la fermentazione acido-lattica"
+title:  "Il sale nella fermentazione acido-lattica"
 categories: [ fermentazione ]
-image: assets/images/fermentazione-carote-05.jpg
+image: assets/images/sale-integrale.jpg
 tags: [featured]
 comments: false
 ---
-Il calcolo corretto della quantità di sale per preparare la salamoia di una [fermentazione acido-lattica](../fermentazione-acido-lattica) è importante per consentire ai microrganismi di poter lavorare al meglio.
+La corretta quantità di sale nella [fermentazione acido-lattica](../fermentazione-acido-lattica) è importante per:
+- estrarre l'acqua da verdura e frutta;
+- creare un ambiente che consenta ai microrganismi di lavorare al meglio;
+- mantenere una buona croccantezza degli ingredienti.
 
-> Ma anche il tipo di sale è rilevante, infatti esistono in commercio molte tipologie di sale. Il migliore per la fermentazione è quello **marino integrale**. Meglio evitare il sale iodato, perché lo iodio inibisce l'azione dei microrganismi, anche quelli necessari al processo di fermentazione acido-lattica.
+> Il tipo di sale impiegato è fondamentale. Ne esistono in commercio molte tipologie, ma il migliore per la fermentazione è il **sale marino integrale**. Da evitare il sale iodato, perché lo iodio inibisce l'azione dei microrganismi, anche quelli necessari al processo di fermentazione acido-lattica.
 
-Se una ricetta per la fermentazione richiede il 3% di sale, significa che il sale deve costituire il 3% del peso totale di verdura/frutta, acqua, aromi, ... e anche sale, cioè **tutto quello che mettiamo nel vaso**.
+La maggior parte delle ricette prevede la seguente quantità di sale:
+- con salamoia: **da 30 a 50 grammi di sale** per ogni **litro di acqua**
+- senza salamoia: **10 grammi di sale** per ogni **Kg di prodotto**
+
+Attenzione perché alcune ricette esprimono la quantità di sale in percentuale sul totale. Ad esempio richiedono che il sale corrisponda al 3% del peso totale di tutto ciò che viene messo nel barattolo: verdura/frutta, acqua, aromi, ... e anche il sale stesso.
 
 #### Come si fa questo calcolo?
 - Pesare il vaso vuoto, e segnarsi tale peso in grammi
@@ -57,14 +64,4 @@ pesoIngredientiAcqua = 1500
 cioè 4500 : 97
 cioè 46,39 grammi
 {% endhighlight %}
-
-#### Come NON si fa questo calcolo?
-Non è corretto calcolare il 3% del peso degli ingredienti senza il sale.
-
-Infatti, riprendendo l'esempio precedente, avendo 1500g di verdura/frutta, aromi e acqua senza sale, se calcolassi il 3% otterrei 45g.
-Quindi nel vaso metterei in tutto 1545g di materiale.
-
-45 è il 2,91% di 1545.
-
-Quindi questo calcolo **sbagliato** ci avrebbe portato a fare una salamoia al 2,91% di sale, **NON** al 3%.
 
