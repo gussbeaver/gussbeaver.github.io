@@ -35,3 +35,5 @@ In questo articolo vediamo, passo per passo, come perparare i cetrioli per la fe
 - Nelle successive 2 la fermentazione continuerà senza formare bollicine.
 - Dopo 2 o 3 settimane dalla preparazione i cetrioli sono in genere pronti da mangiare. Il vaso deve essere spostato in frigorifero o in un ambiente fresco come una cantina per rallentare la fermentazione. Una volta aperto, va consumato entro poche settimane.
 
+![cetrioli fermentati]({{ site.baseurl }}/assets/images/cetrioli-fermentati.jpg)
+
