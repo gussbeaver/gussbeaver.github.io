@@ -16,7 +16,8 @@ In questo articolo vediamo un modo semplice di produrre germogli in casa.
 
 ##### Ingredienti
 
-- semi da germogliare
+- semi da germogliare.
+
 Per iniziare consiglio fagioli verdi mung biologici o lenticchie biologiche.
 Poi con il tempo e l'esperienza, si può sperimentare con altri semi.
 
