@@ -10,13 +10,13 @@ In questo articolo vediamo un modo semplice di produrre germogli in casa.
 
 ##### Strumenti
 
-- vaso di vetro, con almeno 2 litri di capienza
-- pezzo di stoffa per coprire il coperchio del vaso
-- elastico per trattenere il pezzo di stoffa
+- Vaso di vetro, con almeno 2 litri di capienza.
+- Pezzo di stoffa per coprire il coperchio del vaso.
+- Elastico per trattenere il pezzo di stoffa.
 
 ##### Ingredienti
 
-- semi da germogliare.
+- Semi da germogliare.
 
 Per iniziare consiglio fagioli verdi mung biologici o lenticchie biologiche.
 Poi con il tempo e l'esperienza, si può sperimentare con altri semi.
