@@ -14,8 +14,8 @@ La corretta quantità di sale nella [fermentazione acido-lattica](../fermentazio
 > Il tipo di sale impiegato è fondamentale. Ne esistono in commercio molte tipologie, ma il migliore per la fermentazione è il **sale marino integrale**. Da evitare il sale iodato, perché lo iodio inibisce l'azione dei microrganismi, anche quelli necessari al processo di fermentazione acido-lattica.
 
 La maggior parte delle ricette prevede la seguente quantità di sale:
-- con salamoia: **da 30 a 50 grammi di sale** per ogni **litro di acqua**
-- senza salamoia: **10 grammi di sale** per ogni **Kg di prodotto**
+- con salamoia: **da 20 a 30 grammi di sale** per ogni **litro di acqua**
+- senza salamoia: **da 15 a 25 grammi di sale** per ogni **Kg di prodotto**
 
 Attenzione perché alcune ricette esprimono la quantità di sale in percentuale sul totale. Ad esempio richiedono che il sale corrisponda al 3% del peso totale di tutto ciò che viene messo nel barattolo: verdura/frutta, acqua, aromi, ... e anche il sale stesso.
 
